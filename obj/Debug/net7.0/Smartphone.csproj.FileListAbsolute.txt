@@ -1,0 +1,15 @@
+C:\Users\Leona\Nova pasta\Smartphone\bin\Debug\net7.0\Smartphone.exe
+C:\Users\Leona\Nova pasta\Smartphone\bin\Debug\net7.0\Smartphone.deps.json
+C:\Users\Leona\Nova pasta\Smartphone\bin\Debug\net7.0\Smartphone.runtimeconfig.json
+C:\Users\Leona\Nova pasta\Smartphone\bin\Debug\net7.0\Smartphone.dll
+C:\Users\Leona\Nova pasta\Smartphone\bin\Debug\net7.0\Smartphone.pdb
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\Smartphone.csproj.AssemblyReference.cache
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\Smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\Smartphone.AssemblyInfoInputs.cache
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\Smartphone.AssemblyInfo.cs
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\Smartphone.dll
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\refint\Smartphone.dll
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\Smartphone.pdb
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\Smartphone.genruntimeconfig.cache
+C:\Users\Leona\Nova pasta\Smartphone\obj\Debug\net7.0\ref\Smartphone.dll
